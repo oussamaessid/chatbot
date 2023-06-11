@@ -1,0 +1,58 @@
+{"intents": [
+        {"tag": "1",
+         "patterns": ["Hi","Is anyone there?", "Hello"],
+         "responses": ["Hi", "Hello", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "2",
+         "patterns": ["Who are you","What is you name","Do you have a name"],
+         "responses": ["Hi, I'm slack", "My name is slack", "I'm Slack"],
+         "context_set": ""
+        },
+        {"tag": "5",
+         "patterns": ["How is the weather today"],
+         "responses": ["It's sunny day"],
+         "context_set": ""
+        },
+        {"tag": "6",
+         "patterns": ["What events are available today"],
+         "responses": ["Live in concent will be at UOM JJ hall"],
+         "context_set": ""
+        },
+        {"tag": "7",
+         "patterns": ["How are you","What's up"],
+         "responses": ["I'm fine, Thanks for asking.","I'm doing well","I'm fine. And you ?"],
+         "context_set": ""
+        },
+        {"tag": "8",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."],
+         "context_set": ""
+        },
+        {"tag": "9",
+         "patterns": ["Thank you"],
+         "responses": ["You are welcome"],
+         "context_set": ""
+        },
+        {"tag": "10",
+         "patterns": ["What are the main tourist attractions in Monastir?"],
+         "responses": ["Monastir is famous for its Medina, the Ribat (fortress) of Monastir, the Mausoleum of Bourguiba, the Gulf of Monastir, the Marina of Monastir, and the sandy beaches such as Skanes Beach and Monastir Beach."],
+         "context_set": ""
+        },
+        {"tag": "11",
+         "patterns": ["What activities can you do in Monastir?"],
+         "responses": ["In Monastir, you can engage in activities such as swimming, water sports like jet skiing and windsurfing, visiting historical sites like the Ribat, exploring the picturesque Medina, golfing on internationally renowned golf courses, and enjoying the bars and restaurants along the promenade."],
+         "context_set": ""
+        },
+        {"tag": "12",
+        "patterns": ["Are there any festivals or special events in Monastir?"],
+        "responses": ["Yes, Monastir hosts several festivals and events throughout the year. For example, the Monastir International Festival showcases music, theater, and dance. There are also cultural festivals, art exhibitions, and sports events."],
+        "context_set": ""
+       },
+       {"tag": "13",
+        "patterns": ["What are the culinary specialties of Monastir?"],
+        "responses": [" The cuisine of Monastir and the surrounding region offers a variety of delicious Tunisian dishes. You can enjoy dishes such as couscous, tagines, grilled fresh fish, fricassés (Tunisian sandwiches), seafood, and local pastries."],
+        "context_set": ""
+       }
+  ]
+}
