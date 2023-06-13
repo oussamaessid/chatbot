@@ -7,7 +7,7 @@ SECRET_KEY = 'i1u63^ba=6#vzc_0t6m_!m$)iejuq@v9!6dqq!jgzpkj=^9#t2'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.103', '127.0.0.1']
+ALLOWED_HOSTS = ['oussamaessid.pythonanywhere.com']
 
 
 INSTALLED_APPS = [
